@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "曼珠沙華",
+  "base_artist": "Mafumafu",
+  "createdAt": "2025-12-17T12:57:24.044488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_曼珠沙華_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "曼珠沙華 (蔓珠莎華)",
+      "artist": "山口百惠",
+      "has_synced": false,
+      "path": "select/02_曼珠沙華_(蔓珠莎華)_山口百惠.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": false,
+      "path": "select/03_曼珠沙華_Momoe_Yamaguchi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "Giga×あらなるめい",
+      "has_synced": true,
+      "path": "select/04_曼珠沙華_Giga×あらなるめい.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "山口百恵",
+      "has_synced": false,
+      "path": "select/05_曼珠沙華_山口百恵.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "曼珠沙華(オリジナル・カラオケ)",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": false,
+      "path": "select/06_曼珠沙華(オリジナル・カラオケ)_Momoe_Yamaguchi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "Momoe Yamaguchi",
+      "has_synced": true,
+      "path": "select/07_曼珠沙華_Momoe_Yamaguchi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "山口 百恵",
+      "has_synced": false,
+      "path": "select/08_曼珠沙華_山口_百恵.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "曼珠沙華 - Manjushage",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/09_曼珠沙華_-_Manjushage_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "山口百恵",
+      "has_synced": true,
+      "path": "select/10_曼珠沙華_山口百恵.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "曼珠沙華",
+      "artist": "Yamaguchi Momoe",
+      "has_synced": false,
+      "path": "select/11_曼珠沙華_Yamaguchi_Momoe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "曼珠沙華 (蔓珠莎華)",
+      "artist": "山口百恵",
+      "has_synced": false,
+      "path": "select/12_曼珠沙華_(蔓珠莎華)_山口百恵.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曼珠沙華",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_曼珠沙華_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "曼珠沙華",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_曼珠沙華_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "曼珠沙華",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_03_曼珠沙華_まふまふ.txt"
+    }
+  ]
+}
